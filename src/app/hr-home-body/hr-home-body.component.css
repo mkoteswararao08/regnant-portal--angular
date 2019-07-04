@@ -1,0 +1,18 @@
+.home-body{
+    background-color: lightgrey;
+    font-family: Poppins-Regular, sans-serif;
+}
+.limiter {
+    max-width: 85%;
+    /* display: flex; */
+    /* justify-content: center; */
+    margin: 0px auto;
+    height: 600px;
+    flex-grow: 1;
+    background: #9053c7;
+    background: -webkit-linear-gradient(-135deg, #c850c0, #4158d0);
+    background: -o-linear-gradient(-135deg, #c850c0, #4158d0);
+    background: -moz-linear-gradient(-135deg, #c850c0, #4158d0);
+    background: linear-gradient(-135deg, #c850c0, #4158d0);
+    
+  }

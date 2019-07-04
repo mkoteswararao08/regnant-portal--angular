@@ -1,0 +1,23 @@
+.box{
+    margin-top: 0%;
+    height: 100px;
+    width: 100%;
+    background-color: black;
+    padding-left: 15px;
+}
+.img_class {
+    width: 50px;
+    height: 50px;
+    position: relative;
+    top: 17px;
+    left: 75px;
+}
+
+.logo_class {
+    color: #9ca3a7;
+    font-size: 35px;
+    position: relative;
+    top: -33px;
+    right: -141px;
+    font-family: "Staatliches", "cursive";
+}
